@@ -19,11 +19,11 @@ You can stop all collection of information by the Application easily by uninstal
 
 ## Data Retention Policy
 
-The Service Provider will retain analytics data for as long as necessary to fulfill the purposes outlined in this privacy policy. If you wish to request the deletion of any data that may have been collected, please contact the Service Provider at paul.egorov@gmail.com.
+The Service Provider will retain analytics data for as long as necessary to fulfill the purposes outlined in this privacy policy. If you wish to request the deletion of any data that may have been collected, please contact the Service Provider at pauil.egorov@gmail.com.
 
 ## Children
 
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect data from children under 13 years of age. If you are a parent or guardian and you are aware that your child has provided us with data, please contact the Service Provider at paul.egorov@gmail.com so that necessary actions can be taken.
+The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect data from children under 13 years of age. If you are a parent or guardian and you are aware that your child has provided us with data, please contact the Service Provider at pauil.egorov@gmail.com so that necessary actions can be taken.
 
 ## Security
 
@@ -41,4 +41,4 @@ By using the Application, you are consenting to the processing of your informati
 
 ## Contact Us
 
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact the Service Provider via email at paul.egorov@gmail.com.
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact the Service Provider via email at pauil.egorov@gmail.com.
